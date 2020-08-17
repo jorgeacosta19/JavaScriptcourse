@@ -32,9 +32,8 @@
         }
         caracteres("Barcelona", 4);
 
-        ===
-        ===
-        === === = 2) con arrow, funcion expresada y funcion ternaria
+     
+       /*======== 2) con arrow, funcion expresada y funcion ternaria======*/
         const recortar = (texto, numero) =>
             (typeof texto !== "string") ?
             console.warn("Tu cadena de texto es inválida") :
